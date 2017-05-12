@@ -1,0 +1,25 @@
+{
+  "name": "fp-js-workshop",
+  "version": "1.0.0",
+  "description": "workshop for iterate hackerspace",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGevorg/fp-js-workshop.git"
+  },
+  "keywords": [
+    "workshop",
+    "fp",
+    "node",
+    "js"
+  ],
+  "author": "sgevorg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SGevorg/fp-js-workshop/issues"
+  },
+  "homepage": "https://github.com/SGevorg/fp-js-workshop#readme",
+  "dependencies": {
+    "ramda-fantasy": "^0.8.0"
+  }
+}
