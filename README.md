@@ -6,7 +6,7 @@ This repo includes simple examples of file load done in different ways to demons
 
 ## How to use
 
-- The `read-diles` contains different `fileLoader` implementations with comments
+- The `read-files` contains different `fileLoader` implementations with comments
 - The `read-file-clients` contains the usages of `fileLoader`.
 
 
