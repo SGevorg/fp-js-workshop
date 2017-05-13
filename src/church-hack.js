@@ -32,3 +32,12 @@ function right(pairData) {
     return rightItem;
   });
 }
+
+
+var p = pair(3, 4)
+console.log(left(p))
+console.log(right(p))
+
+var ps = pair('leftString', 'rightString')
+console.log(left(ps))
+console.log(right(ps))
